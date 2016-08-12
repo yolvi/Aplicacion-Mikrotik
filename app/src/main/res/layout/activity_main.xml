@@ -74,7 +74,7 @@
             android:hint="  Admin" />
 
         <Button
-            android:layout_width="73dp"
+            android:layout_width="78dp"
             android:layout_height="35dp"
             android:text="Connect"
             android:id="@+id/buttonconnect"
