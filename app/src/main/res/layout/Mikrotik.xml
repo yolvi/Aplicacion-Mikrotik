@@ -33,6 +33,7 @@
             android:text="Volver"
             android:id="@+id/buttonvolver"
             android:layout_gravity="center_vertical"
-            android:layout_weight="0.77" />
+            android:layout_weight="0.77"
+            android:background="@android:color/holo_orange_dark" />
     </LinearLayout>
 </RelativeLayout>
